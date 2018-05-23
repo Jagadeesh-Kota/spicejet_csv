@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flight_name: MyString
+  origin: MyString
+  destination: MyString
+  frequency: MyString
+  flight_num: MyString
+  dept_time: 2016-12-07 13:24:05
+  arrival_time: 2016-12-07 13:24:05
+  via: MyString
+  effective_from: 2016-12-07
+  effective_till: 2016-12-07
+  remarks: MyString
+
+two:
+  flight_name: MyString
+  origin: MyString
+  destination: MyString
+  frequency: MyString
+  flight_num: MyString
+  dept_time: 2016-12-07 13:24:05
+  arrival_time: 2016-12-07 13:24:05
+  via: MyString
+  effective_from: 2016-12-07
+  effective_till: 2016-12-07
+  remarks: MyString

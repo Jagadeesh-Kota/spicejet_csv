@@ -1,0 +1,4 @@
+<%= form_tag('/flight_data/save',multipart: true) do %>
+<%= file_field_tag :xl %>
+<%= submit_tag 'Import' %>
+<% end %>

@@ -1,0 +1,2 @@
+module FlightDataHelper
+end
